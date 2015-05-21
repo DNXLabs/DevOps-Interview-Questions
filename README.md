@@ -11,6 +11,7 @@ Inspired by [Front-end-Developers-Interview-Questions](https://github.com/h5bp/F
   1. [General Questions](#general-questions)
   1. [Network Questions](#network-questions)
   1. [Linux Questions](#linux-questions)
+  1. [Security Questions](#security-questions)
   1. [Cloud Questions](#cloud-questions)
   1. [CI Questions](#ci-questions)
   1. [Coding Questions](#coding-questions)
@@ -21,3 +22,33 @@ Inspired by [Front-end-Developers-Interview-Questions](https://github.com/h5bp/F
   1. [Contributors](#contributors)
   1. [How to Contribute](https://github.com/spikenode/DevOps-Interview-Questions/blob/master/CONTRIBUTING.md)
   1. [License](https://github.com/spikenode/DevOps-Interview-Questions/blob/master/LICENSE.md)
+
+#### General Questions
+
+#### Network Questions
+
+* What’s a PTR in DNS?
+* What’s a MX record in DNS?
+
+#### Linux Questions
+
+* Difference between RAID 1 and 5?
+* What’s the advantage of one RAID over another?
+* Alternative to init.d in Linux?
+* How to view running processes in Linux?
+
+#### Security Questions
+
+* Difference between authorization and authentication?
+
+#### Cloud Questions
+
+#### CI Questions
+
+#### Coding Questions
+
+#### Fun Questions
+
+
+
+
