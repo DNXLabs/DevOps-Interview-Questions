@@ -27,7 +27,7 @@ Inspired by [Front-end-Developers-Interview-Questions](https://github.com/h5bp/F
 
 #### General Questions
 
-* Have you used Puppet, Chef or Ansible?
+* Have you used Puppet, Chef, Salt or Ansible?
   * How long have you used it for?
   * Have you used it in production?
 * Describe the size of the environment that you automated (how many servers, small scale or large scale)
@@ -42,7 +42,7 @@ Inspired by [Front-end-Developers-Interview-Questions](https://github.com/h5bp/F
 
 #### Linux Questions
 
-* Difference between RAID 1 and 5?
+* Difference between RAID 0, 1 and 5?
 * What’s the advantage of one RAID over another?
 * Alternative to init.d in Linux?
 * How to view running processes in Linux?
@@ -72,8 +72,8 @@ Inspired by [Front-end-Developers-Interview-Questions](https://github.com/h5bp/F
 * How to choose between relational database and noSQL?
 * What advantages a NoSQL database like MongoDB has, comparing to MySQL?
 * How to manage API versions?
-* How to reduce load speeds of a dynamic website?
-* How to reduce load speeds of a static website?
+* How to reduce load time of a dynamic website?
+* How to reduce load time of a static website?
 
 #### CI Questions
 
@@ -82,6 +82,7 @@ Inspired by [Front-end-Developers-Interview-Questions](https://github.com/h5bp/F
 
 #### Coding Questions
 
+* Describe a dev/test/production workflow using GIT
 * More on [Front-end Developer Job Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions/blob/master/README.md)
 
 #### Fun Questions
