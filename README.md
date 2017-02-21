@@ -39,6 +39,8 @@ Inspired by [Front-end-Developers-Interview-Questions](https://github.com/h5bp/F
 * What’s a MX record in DNS?
 * How a CDN chooses the closest host to serve a client?
 * In which cases would you choose to not implement a CDN?
+* How do you measure the performance of a server/web application? (tools, methods)
+* What are secure ways to SSH to a server inside a private network from a public location?
 
 #### Linux Questions
 
@@ -57,6 +59,7 @@ Inspired by [Front-end-Developers-Interview-Questions](https://github.com/h5bp/F
 
 * Difference between authorization and authentication?
 * Describe two-factor authentication
+* Describe how would you secure a web application
 
 #### Cloud Questions
 
@@ -65,6 +68,16 @@ Inspired by [Front-end-Developers-Interview-Questions](https://github.com/h5bp/F
   * In production or just at home on personal projects?
 * How to keep logs on servers or containers with ephemeral storage?
 * Where to look when trying to reduce cloud costs without reducing capacity?
+
+##### AWS Questions
+
+* Describe the advantages/disadvantages of using CloudFormation to manage your resources
+* Would you use CloudFormation to create a RDS database?
+* Describe EC2 spot instances and which use cases it can be used to reduce costs
+
+#### Database Questions
+
+* What's the use case for a database read replica?
 
 #### Architecture Questions
 
@@ -79,10 +92,14 @@ Inspired by [Front-end-Developers-Interview-Questions](https://github.com/h5bp/F
 
 * Are you familiar with CI tools? Which ones?
 * Describe your experience implementing continuous deployment
+* How do you setup an end-to-end pipeline from dev to deployment? (long answer)
+  * How can Docker help in this case?
 
 #### Coding Questions
 
 * Describe a dev/test/production workflow using GIT
+  * Feature branching vs trunk based development
+  * Advantages of requiring pull requests and approvals
 * More on [Front-end Developer Job Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions/blob/master/README.md)
 
 #### Fun Questions
