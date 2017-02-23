@@ -9,13 +9,13 @@ Inspired by [Front-end-Developers-Interview-Questions](https://github.com/h5bp/F
 ## Table of Contents
 
   1. [General Questions](#general-questions)
-  1. [Automation Questions](#automation-questions)
   1. [Network Questions](#network-questions)
   1. [Linux Questions](#linux-questions)
   1. [Windows Questions](#windows-questions)
   1. [Security Questions](#security-questions)
   1. [Cloud Questions](#cloud-questions)
   1. [Architecture Questions](#architecture-questions)
+  1. [Automation Questions](#automation-questions)
   1. [CI Questions](#ci-questions)
   1. [Coding Questions](#coding-questions)
   1. [Fun Questions](#fun-questions)
@@ -53,13 +53,6 @@ Inspired by [Front-end-Developers-Interview-Questions](https://github.com/h5bp/F
 * In which cases would you choose to not implement a CDN?
 * How do you measure the performance of a server/web application? (tools, methods)
 * What are secure ways to SSH to a server inside a private network from a public location?
-
-#### Automation Questions
-
-* Have you used Puppet, Chef, Salt or Ansible?
-  * How long have you used it for?
-  * Have you used it in production?
-* Describe the size of the environment that you automated (how many servers, small scale or large scale)
 
 #### Linux Questions
 
@@ -120,6 +113,13 @@ Inspired by [Front-end-Developers-Interview-Questions](https://github.com/h5bp/F
 * How to manage API versions?
 * How to reduce load time of a dynamic website?
 * How to reduce load time of a static website?
+
+#### Automation Questions
+
+* Have you used Puppet, Chef, Salt or Ansible?
+  * How long have you used it for?
+  * Have you used it in production?
+* Describe the size of the environment that you automated (how many servers, small scale or large scale)
 
 #### CI Questions
 
