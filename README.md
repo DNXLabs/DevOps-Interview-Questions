@@ -15,6 +15,7 @@ Inspired by [Front-end-Developers-Interview-Questions](https://github.com/h5bp/F
   1. [Security Questions](#security-questions)
   1. [Cloud Questions](#cloud-questions)
   1. [Architecture Questions](#architecture-questions)
+  1. [Automation Questions](#automation-questions)
   1. [CI Questions](#ci-questions)
   1. [Coding Questions](#coding-questions)
   1. [Fun Questions](#fun-questions)
@@ -27,14 +28,25 @@ Inspired by [Front-end-Developers-Interview-Questions](https://github.com/h5bp/F
 
 #### General Questions
 
-* Have you used Puppet, Chef, Salt or Ansible?
-  * How long have you used it for?
-  * Have you used it in production?
-* Describe the size of the environment that you automated (how many servers, small scale or large scale)
+* What does the term "DevOps" mean to you?
+  * "Hard"/hands-on/SRE vs
+  * "Soft"/Three Ways/Theory of Constraints/philosophy of DevOps
+* Describe your experience with task management
+  * Agile
+  * Kanban
+  * Waterfall
+* What drew you to DevOps
 * Describe the most challenging situation that you were faced with and how did you fix it?
+* How do you stay current?
 
 #### Network Questions
 
+* Say I open a web browser and enter an address. I hit enter. Describe how the connection the works in as much detail as possible. Trying to hear that they understand:
+  * DNS
+  * Network routing
+  * Load Balancing
+  * Ports on server
+  * Service that is serving port
 * What’s a PTR in DNS?
 * What’s a MX record in DNS?
 * How a CDN chooses the closest host to serve a client?
@@ -49,6 +61,7 @@ Inspired by [Front-end-Developers-Interview-Questions](https://github.com/h5bp/F
 * Alternative to init.d in Linux?
 * How to view running processes in Linux?
 * How to check DNS records in Linux?
+* Describe your experience with scripting
 
 #### Windows Questions
 
@@ -60,6 +73,8 @@ Inspired by [Front-end-Developers-Interview-Questions](https://github.com/h5bp/F
 * Difference between authorization and authentication?
 * Describe two-factor authentication
 * Describe how would you secure a web application
+  * HTTP vs HTTPS
+* Talk about PKI/your experience with SSL/Certificates
 
 #### Cloud Questions
 
@@ -68,12 +83,23 @@ Inspired by [Front-end-Developers-Interview-Questions](https://github.com/h5bp/F
   * In production or just at home on personal projects?
 * How to keep logs on servers or containers with ephemeral storage?
 * Where to look when trying to reduce cloud costs without reducing capacity?
+* Name the "Big Three" cloud providers
+  * AWS
+  * GCE
+  * Azure
 
 ##### AWS Questions
 
 * Describe the advantages/disadvantages of using CloudFormation to manage your resources
 * Would you use CloudFormation to create a RDS database?
 * Describe EC2 spot instances and which use cases it can be used to reduce costs
+* Talk about IAM roles
+* Talk about VPC's
+  * Subnets
+  * Internet Gateways
+  * NATing
+  * NACL's
+  * VPN/VPC Peering
 
 #### Database Questions
 
@@ -88,12 +114,21 @@ Inspired by [Front-end-Developers-Interview-Questions](https://github.com/h5bp/F
 * How to reduce load time of a dynamic website?
 * How to reduce load time of a static website?
 
+#### Automation Questions
+
+* Have you used Puppet, Chef, Salt or Ansible?
+  * How long have you used it for?
+  * Have you used it in production?
+* Describe the size of the environment that you automated (how many servers, small scale or large scale)
+
 #### CI Questions
 
 * Are you familiar with CI tools? Which ones?
 * Describe your experience implementing continuous deployment
 * How do you setup an end-to-end pipeline from dev to deployment? (long answer)
   * How can Docker help in this case?
+* How frequently have you been deploying?
+  * Have you been able to improve the frequency of deployments? If so, how?
 
 #### Coding Questions
 
