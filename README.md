@@ -85,7 +85,7 @@ Inspired by [Front-end-Developers-Interview-Questions](https://github.com/h5bp/F
 * Where to look when trying to reduce cloud costs without reducing capacity?
 * Name the "Big Three" cloud providers
   * AWS
-  * GCE
+  * GCP
   * Azure
 
 ##### AWS Questions
